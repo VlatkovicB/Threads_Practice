@@ -1,0 +1,8 @@
+.settings
+/bin
+.classpath
+.project
+input.txt
+output.txt
+read_write.txt
+test.txt
